@@ -1,2 +1,3 @@
-# zel_novadogs
-Starbound mod - Snugget Replacement
+Chucklefish forums died, possibly forever, so i decided to start dumping some of the Starbound mods I've released there on Github at least. To download, click the "Code" button at the top, then click Download zip, extract the mod's folder out of the zip, then paste the folder into Starbound's mod directory. Some of the original mod names or descriptions might have been edited a little.
+
+This replaces the Snuggets (Novakid ship pets) with glowing dogs, so they're now novadogs I guess. They require another mod, like this one I found https://steamcommunity.com/sharedfiles/filedetails/?id=1272117549 , to make them actually fullbright, though.
